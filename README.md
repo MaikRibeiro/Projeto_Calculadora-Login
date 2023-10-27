@@ -6,7 +6,6 @@ Este é um projeto de conjuntos de calculadoras realizado com Windows Forms. Ao 
   Senha: admin
   
 -------------------------------------------------------
-  
   Usuário: user
   Senha: _senha vazia_
 
