@@ -2,12 +2,12 @@
 
 Este é um projeto de conjuntos de calculadoras realizado com Windows Forms. Ao executar o programa é inicializado uma tela de Login para ter acesso as calculadoras.
 
-  Usuário: admin
+  - Usuário: admin
   Senha: admin
   
 ---------------------------------  
   
-  Usuário: user
+  - Usuário: user
   Senha: _senha vazia_
 
 FEATURES
